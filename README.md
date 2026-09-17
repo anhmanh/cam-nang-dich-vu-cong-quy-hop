@@ -10,7 +10,7 @@ Nội dung website cung cấp một số hướng dẫn cơ bản về dịch v�
 
 ## Thông tin sinh viên
 
-- **Họ và tên:** [Họ và tên của bạn]
+- **Họ và tên:** [**Cao Xuân Mạnh**]
 - **Hình thức thực hiện:** Cá nhân
 - **Môn học:** Nhập môn Công nghệ thông tin
 - **Trường:** Đại học Vinh
