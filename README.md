@@ -62,14 +62,25 @@ cam-nang-dich-vu-cong-quy-hop
 ├── dich-vu-cong.md
 ├── dich-vu-so.md
 ├── cau-hoi-thuong-gap.md
-└── lien-he.md
+├── lien-he.md
+└── images
+    ├── README.md
+    └── ubndquyhop.jpg
 ```
 
 ## Các chức năng đã thực hiện
 
 - Hiển thị website bằng GitHub Pages.
-- Tạo menu điều hướng bằng Docsify.
+- Xây dựng website tài liệu bằng Docsify.
+- Tạo menu điều hướng bên trái.
+- Thu gọn và mở rộng các nhóm menu bằng plugin Sidebar Collapse.
 - Tìm kiếm nội dung trên website.
-- Nhúng Google Form tiếp nhận phản hồi.
+- Hiển thị và trình bày nội dung bằng Markdown.
 - Tích hợp plugin sao chép khối mã.
-- Hiển thị nội dung bằng Markdown.
+- Tích hợp plugin đếm số chữ và thời gian đọc.
+- Tích hợp chế độ giao diện sáng/tối.
+- Nhúng Google Form để tiếp nhận phản hồi.
+- Nhúng biểu đồ Google Sheets để thống kê phản hồi.
+- Nhúng Google Maps hiển thị vị trí trụ sở UBND xã Quỳ Hợp.
+- Nhúng video YouTube hướng dẫn dịch vụ công trực tuyến.
+- Nhúng video YouTube hướng dẫn sử dụng VNeID và dịch vụ số.
