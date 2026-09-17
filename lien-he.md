@@ -21,7 +21,25 @@ marginwidth="0">
 Đang tải…
 </iframe>
 
-## 3. Thông tin tham khảo
+## 3. Thống kê phản hồi
+
+Các biểu đồ dưới đây được tổng hợp tự động từ dữ liệu phản hồi được gửi qua Google Form.
+
+> **Lưu ý:** Số liệu hiện tại là dữ liệu thử nghiệm phục vụ việc minh họa chức năng tích hợp Google Form và Google Sheets trong đồ án, chưa phải kết quả khảo sát chính thức.
+
+### 3.1. Mức độ hữu ích của cẩm nang
+
+Biểu đồ thể hiện số lượng phản hồi theo mức đánh giá từ 1 đến 5 sao.
+
+<iframe width="100%" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRt1ywBmuh9VpYNWzEShVtLCnfPjw38oB24NlmxEgtUNytTso1vWHTiM9c9m5BwWJXmBsMPvTl7_3UO/pubchart?oid=1778134915&amp;format=interactive"></iframe>
+
+### 3.2. Nội dung người dùng quan tâm
+
+Biểu đồ thể hiện tỷ lệ các nhóm nội dung mà người dùng lựa chọn khi gửi phản hồi.
+
+<iframe width="100%" height="366" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRt1ywBmuh9VpYNWzEShVtLCnfPjw38oB24NlmxEgtUNytTso1vWHTiM9c9m5BwWJXmBsMPvTl7_3UO/pubchart?oid=1699717326&amp;format=interactive"></iframe>
+
+## 4. Thông tin tham khảo
 
 Trang thông tin điện tử xã Quỳ Hợp:
 
