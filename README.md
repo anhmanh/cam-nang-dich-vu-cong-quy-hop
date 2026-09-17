@@ -21,9 +21,11 @@ Bản đồ vị trí UBND xã Quỳ Hợp:
 
 ## Thông tin sinh viên
 
-- **Họ và tên:** **Cao Xuân Mạnh**
-- **Hình thức thực hiện:** Cá nhân
+- **Thành viên 1:** **Cao Xuân Mạnh**
+- **Thành viên 2:** **Nguyễn Thị Khánh Hà**
+- **Hình thức thực hiện:** Nhóm 2 người
 - **Môn học:** Nhập môn Công nghệ thông tin
+- **Giảng viên hướng dẫn:** **Nguyễn Thúy Hòa**
 - **Trường:** Đại học Vinh
 - **Hình thức đào tạo:** Từ xa
 
