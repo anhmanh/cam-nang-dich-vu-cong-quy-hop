@@ -64,7 +64,13 @@ Trước khi nhập thông tin cá nhân, cần kiểm tra mình đang truy cậ
 | Nhập sai thông tin | Kiểm tra lại trước khi gửi |
 | Không biết thao tác tiếp | Đọc phần hướng dẫn hoặc liên hệ nơi hỗ trợ |
 
-## 7. Nguyên tắc cần nhớ
+## 7. Video hướng dẫn
+
+Video minh họa cách sử dụng ứng dụng VNeID và một số chức năng dịch vụ số cơ bản:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8ZCsOMd7hy4?si=D5-l5r6I01kHiS-o" title="Video hướng dẫn sử dụng VNeID và dịch vụ số" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 8. Nguyên tắc cần nhớ
 
 > **Không vội vàng:** Hãy đọc kỹ thông tin trước khi bấm xác nhận hoặc gửi dữ liệu.
 
