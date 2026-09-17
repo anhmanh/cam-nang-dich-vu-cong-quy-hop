@@ -7,7 +7,11 @@ Website được xây dựng trong khuôn khổ đồ án môn **Nhập môn Cô
 Nội dung website cung cấp một số hướng dẫn cơ bản về dịch vụ công trực tuyến, sử dụng dịch vụ số, các câu hỏi thường gặp và biểu mẫu tiếp nhận phản hồi.
 
 > **Lưu ý:** Đây là sản phẩm phục vụ mục đích học tập, không phải website chính thức để tiếp nhận hồ sơ, phản ánh hoặc kiến nghị của UBND xã Quỳ Hợp.
+## Hình ảnh trụ sở
 
+![Trụ sở UBND xã Quỳ Hợp](images/ubndquyhop.jpg)
+
+*Nguồn ảnh: files.bdttg.gov.vn.*
 ## Thông tin sinh viên
 
 - **Họ và tên:** **Cao Xuân Mạnh**
