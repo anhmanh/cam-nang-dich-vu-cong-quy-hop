@@ -1,4 +1,4 @@
-* [**Trang Chủ**](/)
+* [**TRANG CHỦ**](/)
 
 * **ĐỒ ÁN NHẬP MÔN CNTT**
   * [Giới thiệu](/?id=giới-thiệu)
