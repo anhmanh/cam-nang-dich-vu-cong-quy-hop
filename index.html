@@ -11,19 +11,21 @@
   <!-- Giao diện chuẩn phong cách Vue của Docsify -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
 </head>
-
+<!-- Giao diện thu gọn/mở rộng menu bên trái -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
 <body>
 
   <div id="app">Đang tải dữ liệu hệ thống...</div>
 
   <script>
     window.$docsify = {
-      name: 'Cẩm nang dịch vụ công Quỳ Hợp',
-      repo: '',
-      loadSidebar: true,   // Kích hoạt thanh menu danh mục bên trái
-      subMaxLevel: 3,      // Tự động lấy tiêu đề trang đưa vào menu
-      search: 'auto'       // Kích hoạt thanh tìm kiếm toàn trang
-    }
+  name: 'Cẩm nang dịch vụ công Quỳ Hợp',
+  repo: '',
+  loadSidebar: true,
+  subMaxLevel: 3,
+  search: 'auto',
+  sidebarDisplayLevel: 1
+}
   </script>
 
   <!-- Thư viện mã nguồn mở Docsify -->
@@ -33,5 +35,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 <!-- Plugin nút sao chép mã -->
 <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+<!-- Plugin thu gọn/mở rộng menu bên trái -->
+<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
