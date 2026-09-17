@@ -1,6 +1,7 @@
-* [Trang Chủ](/)
+* **[Trang Chủ](/)**
   * [Giới thiệu](/?id=giới-thiệu)
   * [Hình ảnh trụ sở](/?id=hình-ảnh-trụ-sở)
+  * [Vị trí trụ sở](/?id=vị-trí-trụ-sở)
   * [Thông tin sinh viên](/?id=thông-tin-sinh-viên)
   * [Nội dung chính](/?id=nội-dung-chính)
   * [Công nghệ sử dụng](/?id=công-nghệ-sử-dụng)
