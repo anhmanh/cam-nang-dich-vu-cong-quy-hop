@@ -51,7 +51,13 @@ Thành phần hồ sơ, thời hạn giải quyết và các khoản phí hoặc
 
 Không cung cấp mật khẩu, mã xác thực hoặc thông tin tài khoản cho người không có trách nhiệm hỗ trợ.
 
-## 6. Nguồn tham khảo
+## 6. Video hướng dẫn
+
+Video minh họa cách đăng nhập và nộp hồ sơ trực tuyến trên Cổng Dịch vụ công Quốc gia:
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2JTXrzezf90?si=yMN2EnmU3G0EiJZ2" title="Video hướng dẫn dịch vụ công trực tuyến" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 7. Nguồn tham khảo
 
 - Cổng Dịch vụ công Quốc gia: https://dichvucong.gov.vn/
 - Trang thông tin điện tử xã Quỳ Hợp: https://quyhop.nghean.gov.vn/
