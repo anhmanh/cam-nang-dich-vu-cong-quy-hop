@@ -5,6 +5,7 @@
   * [Hình ảnh trụ sở](/?id=hình-ảnh-trụ-sở)
   * [Vị trí trụ sở](/?id=vị-trí-trụ-sở)
   * [Thông tin sinh viên](/?id=thông-tin-sinh-viên)
+  * [Quy trình xây dựng website](/?id=quy-trình-xây-dựng-website)
   * [Nội dung chính](/?id=nội-dung-chính)
   * [Công nghệ sử dụng](/?id=công-nghệ-sử-dụng)
   * [Đường dẫn sản phẩm](/?id=đường-dẫn-sản-phẩm)
