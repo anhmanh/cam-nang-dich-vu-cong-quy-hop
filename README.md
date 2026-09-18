@@ -29,24 +29,49 @@ Bản đồ vị trí UBND xã Quỳ Hợp:
 - **Trường:** Đại học Vinh
 - **Hình thức đào tạo:** Từ xa
 
+## Quy trình xây dựng website
+
+1. Xác định đề tài và nội dung cần xây dựng.
+2. Tạo repository trên GitHub để lưu trữ dự án.
+3. Tạo các tệp Markdown chứa nội dung của website.
+4. Cấu hình Docsify trong file `index.html`.
+5. Xây dựng menu điều hướng bằng `_sidebar.md`.
+6. Tích hợp các plugin mở rộng cho Docsify.
+7. Nhúng Google Form, Google Sheets, Google Maps và YouTube.
+8. Kiểm tra các chức năng và liên kết trên website.
+9. Quản lý các thay đổi bằng Git và Commit.
+10. Triển khai website trực tuyến bằng GitHub Pages.
+
 ## Nội dung chính
 
-Website gồm các nội dung:
+Website gồm các nội dung và chức năng chính:
 
 - Hướng dẫn dịch vụ công trực tuyến.
 - Hướng dẫn sử dụng dịch vụ số.
 - Câu hỏi thường gặp.
-- Liên hệ và phản hồi.
-- Biểu mẫu Google Form được nhúng trực tiếp vào website.
+- Liên hệ và tiếp nhận phản hồi.
+- Nhúng Google Form để người dùng gửi phản hồi trực tiếp trên website.
+- Tổng hợp và hiển thị biểu đồ phản hồi từ Google Sheets.
+- Nhúng Google Maps hiển thị vị trí trụ sở UBND xã Quỳ Hợp.
+- Nhúng video YouTube hướng dẫn dịch vụ công trực tuyến và sử dụng VNeID.
+- Tích hợp chức năng tìm kiếm nội dung.
+- Hỗ trợ thu gọn và mở rộng menu điều hướng.
+- Hỗ trợ sao chép khối mã, đếm số chữ/thời gian đọc và chuyển đổi giao diện sáng/tối.
 
 ## Công nghệ sử dụng
 
-- GitHub
-- GitHub Pages
-- Docsify
-- Markdown
-- HTML
-- Google Forms
+- **Git:** Quản lý các phiên bản và lịch sử thay đổi của dự án.
+- **GitHub:** Lưu trữ mã nguồn và quản lý repository của đồ án.
+- **GitHub Pages:** Triển khai website trực tuyến trên Internet.
+- **Docsify:** Xây dựng website tài liệu từ các tệp Markdown.
+- **Markdown:** Soạn thảo và tổ chức nội dung các trang.
+- **HTML:** Nhúng các thành phần bên ngoài bằng thẻ iframe.
+- **JavaScript:** Cấu hình Docsify và các plugin của website.
+- **Google Forms:** Thu thập ý kiến và phản hồi của người sử dụng.
+- **Google Sheets:** Tổng hợp dữ liệu và tạo biểu đồ thống kê phản hồi.
+- **Google Maps:** Hiển thị vị trí trụ sở UBND xã Quỳ Hợp.
+- **YouTube:** Cung cấp các video hướng dẫn trực tiếp trên website.
+- **Docsify Plugins:** Bổ sung tìm kiếm, sao chép mã, đếm số chữ/thời gian đọc, chế độ sáng/tối và thu gọn menu.
 
 ## Đường dẫn sản phẩm
 
